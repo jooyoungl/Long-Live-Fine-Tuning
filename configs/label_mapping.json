@@ -1,0 +1,16 @@
+{
+    "spreads misinformation": "belief",
+    "outrage": "belief",
+    "endorse": "belief",
+    "disbelief": "belief",
+    "insistence": "belief",
+    "criminal": "belief",
+    "corrects misinformation": "fact-check",
+    "provides neutral or unrelated commentary": "other",
+    "fact-check": "fact-check",
+    "skepticism": "fact-check",
+    "clarification": "fact-check",    
+    "photoshop": "fact-check",
+    "off-topic": "other",
+    "meta": "other" 
+}
