@@ -1,0 +1,9 @@
+requests
+pandas
+praw 
+scikit-learn
+sentence-transformers
+transformers 
+datasets
+evaluate
+seaborn
