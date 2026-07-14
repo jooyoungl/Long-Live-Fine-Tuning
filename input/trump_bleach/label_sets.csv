@@ -1,5 +1,0 @@
-ID,result,status,labels,,,,,,,,,,,,,
-1,0.164,inactive,"belief, fact-check, off-topic, meta, partisan",belief,fact-check,off-topic,meta,partisan,,,,,,,,
-2,,inactive,"deny_misquote, factcheck_link, quote_transcript, contextualise_science, ask_watch_clip, technical_clarify, political_rant, offtopic_reference, anti_trump, supportive_darkhumor, blame_leader, criticise_intellect, mock_event",deny_misquote,factcheck_link,quote_transcript,contextualise_science,ask_watch_clip,technical_clarify,political_rant,offtopic_reference,anti_trump,supportive_darkhumor,blame_leader,criticise_intellect,mock_event
-3,,inactive,"deny_misquote, factcheck_link, quote_transcript, contextualise_science, political_rant, off_topic, anti_trump, supportive_darkhumor, criticise_intellect",deny_misquote,factcheck_link,quote_transcript,contextualise_science,political_rant,off_topic,anti_trump,supportive_darkhumor,criticise_intellect,,,,
-4,,active,"disbelief, insistence, clarification, skepticism, political, meta",disbelief,insistence,clarification,skepticism,political,meta,,,,,,,
