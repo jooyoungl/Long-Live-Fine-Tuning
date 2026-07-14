@@ -14,11 +14,11 @@ from configs.it_config import DATA_CSV, OUTPUT_JSON # IMMIGATION TATTOOS
 
 
 # Reddit API credentials
-CLIENT_ID = 'sWmzMAhmTGSN7y5NMMto2Q'
-CLIENT_SECRET = 'rNF04vfQTLDzb_5T2LHBZABXt35iyA'
-USERNAME = "Fluffy_Win4717"
-PASSWORD = "wCu_EXEp.Cj2_6x"
-USER_AGENT = "windows:reddit_dt_sns_analysis:v0.1 (by u/Fluffy_Win4717)"
+CLIENT_ID = 'CLIENT_ID'
+CLIENT_SECRET = 'CLIENT_SECRET'
+USERNAME = "USERNAME"
+PASSWORD = "PASSWORD"
+USER_AGENT = "windows:reddit_dt_sns_analysis:v0.1"
 
 # Setup Reddit API
 reddit = praw.Reddit(
